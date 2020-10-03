@@ -1,0 +1,7 @@
+"r" = open file for reading
+"w" = open file for writing
+"x" = create file if not exists
+"a" = add more content to a file
+"t" = open on text mode
+"b" = open on binary mode
+"+" = open in read and write
