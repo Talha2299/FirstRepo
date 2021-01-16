@@ -1,0 +1,5 @@
+sudo apt install -y openjdk-8-jre
+
+wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+
+java -jar jenkins.war --httpPort=80 --prefix=/dashboard
